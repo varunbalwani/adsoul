@@ -1,0 +1,33 @@
+.detailCard{
+  padding: 10px 10px 20px 10px;
+  border: 0 solid #BFBFBF;
+  background-color: white;
+  cursor: pointer;
+}
+
+.jumbotron{
+  height: 12vh;
+}
+
+.detail{
+  color:#606060;
+}
+
+.rightpanel{
+  vertical-align: bottom;
+}
+
+.load{
+  left:40%;
+  top:40%;
+}
+
+@media(max-width: 950px){
+  .box{
+    font-size: 0.5rem;
+  }
+
+  .appName{
+    line-height: 1;
+  }
+}
